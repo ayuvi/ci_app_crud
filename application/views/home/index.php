@@ -1,0 +1,1 @@
+<h1>helo ,<?php echo $nama; ?></h1>
